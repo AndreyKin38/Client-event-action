@@ -1,0 +1,6 @@
+1) Добавьте в папку data файлы с данными ga_sessions.csv и ga_hits.csv.
+2) Запустите ячейки в разделах ga_sessions и ga_hits в файле Client_event_action_pipeline.ipynb.
+3) Запустите файл model/model_pipeline.py для сохранения лучшего пайплайна в файл 'event_action_pipe.pkl'.
+4) Ручки FastAPI приложения находятся в директории fastapi_app/app.py.
+5) Streamlit приложение находится в streamlit_app.py, его зависимости в директории streamlit_dependancy/dependancy.py.
+6) Запуск приложений в Makefile.

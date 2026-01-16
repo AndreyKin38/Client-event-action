@@ -5,3 +5,8 @@ __pycache__/
 *.local*
 *.log
 .DS_Store
+.ipynb_checkpoints
+spark-warehouse
+catboost_info
+data/
+*.pkl
